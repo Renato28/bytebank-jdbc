@@ -1,4 +1,4 @@
-package br.com.alura.bytebank.domain;
+package br.com.alura.bytebank.domain.cliente;
 
 import java.util.Objects;
 
